@@ -1,0 +1,23 @@
+.numeric-buttons{
+    margin: 10px;
+    /* padding-left: 20px; */
+    
+}
+.clear, .cross{
+    width: 90px;
+    
+}
+.numbers{
+    width: 90px;
+}
+
+/* .btn-light{
+    border: black !important;
+    border-collapse: collapse !important;
+} */
+/* .calculator-ui{
+    border: 2px solid;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+} */
